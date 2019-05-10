@@ -26,7 +26,8 @@ github_username:  nichtsen
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: codeasashu/hcz-jekyll-blog
 plugins:
   - jekyll-feed
 
