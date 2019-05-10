@@ -26,7 +26,7 @@ github_username:  nichtsen
 
 # Build settings
 markdown: kramdown
-theme: Modernist
+theme: minima
 # remote_theme: codeasashu/hcz-jekyll-blog
 plugins:
   - jekyll-feed
