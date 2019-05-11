@@ -18,9 +18,9 @@ INSERT INTO Score(STID,Score) VALUES(2,88) /* FOREIN KEY violation occurs here *
 COMMIT TRAN
 ```
 The result is:
-
+```
     [11:07:58]	Started executing query at Line 16
     (1 row affected) 
     Msg 547, Level 16, State 0, Line 3
     INSERT ”Ô
-	
+```	
