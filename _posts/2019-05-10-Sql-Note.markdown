@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "sql_note_test"
+title:  "sql-note"
 date:   2019-05-11
 categories: jekyll update
 ---
