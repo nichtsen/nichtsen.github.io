@@ -59,7 +59,7 @@ After the RAISEERROR and CATCH,the 2nd INSERT would not be ran just as we discus
 	.3.2 null as root of every value,could not been rejected by JOIN statement
 	
 ```sql
-    SELECT TOP 5 --找出收款单单号
+    SELECT TOP 5 
             AD.ReceiveOrderno AS ADNONULL,CD.ReceiveOrderno AS CDNONULL,O.ReceiveOrderno AS ONONULL
     FROM    dbo.tbReceiveOrder o WITH(NOLOCK)
             LEFT JOIN dbo.tbReceiveOrderCheckDetail cd WITH(NOLOCK) ON o.ReceiveOrderno = cd.ReceiveOrderno
