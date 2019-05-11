@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "供应商字段获取逻辑@Caihua"
+title:  "how to get vendorid"
 date:   2019-04-10 16==14:40:44 +0000
 categories: jekyll update
 ---
