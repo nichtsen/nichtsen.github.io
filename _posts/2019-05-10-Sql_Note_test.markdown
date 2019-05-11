@@ -24,6 +24,6 @@ COMMIT TRAN
 
 The result is:
 [11:07:58]	Started executing query at Line 16(1 row affected) Msg 547, Level 16, State 0, Line 3
-INSERT Óï¾äÓë FOREIGN KEY Ô¼Êø"FK__Score__STID__173876EA"³åÍ»¡£¸Ã³åÍ»·¢ÉúÓÚÊı¾İ¿â"TEST"£¬±í"dbo.student", column 'stuid'
-Óï¾äÒÑÖÕÖ¹ 
+INSERT
+è¯­
 Total execution time: 00:00:00.008
