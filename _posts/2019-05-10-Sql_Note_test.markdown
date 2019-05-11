@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "sql_note_test"
+date:   2019-05-11 16==14:42:44 +0000
+categories: jekyll update
+---
 2018-10-23
 
 .1 Embbeded Transacton `TRANSACTION` `Embbeded`
