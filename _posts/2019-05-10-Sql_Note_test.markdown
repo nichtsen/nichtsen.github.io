@@ -22,3 +22,7 @@ The result is:
     [11:07:58]	Started executing query at Line 16
     (1 row affected) 
     Msg 547, Level 16, State 0, Line 3
+    INSERT 语句与 FOREIGN KEY 约束"FK__Score__STID__173876EA"冲突。该冲突发生于数据库"TEST"，表"dbo.student", column 'stuid'。
+    语句已终止。 
+    Total execution time: 00:00:00.008
+	
