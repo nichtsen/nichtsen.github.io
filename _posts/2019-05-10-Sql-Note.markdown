@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "sql_note_test"
-date:   2019-05-11 16==14:42:44 +0000
+date:   2019-05-11
 categories: jekyll update
 ---
 
@@ -75,6 +75,7 @@ And the result:
 	NULL	5114011400143	5114011400143
 	NULL	5114082900175	5114082900175
 	NULL	5114082900176	5114082900176
+
 .4  quote
     "As you read the rest of this chapter, keep in mind that this area is at the leading edge of database
     processing. Standards, products, and product capabilities are frequently changing. You
