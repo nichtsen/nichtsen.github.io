@@ -1,5 +1,5 @@
 2018-10-23
 
-.1 Embbeded Transacton `TRANSACTION` `Embbeded`  
+.1 Embbeded Transacton `TRANSACTION` `Embbeded`
 
-   
+    A transaction that 
